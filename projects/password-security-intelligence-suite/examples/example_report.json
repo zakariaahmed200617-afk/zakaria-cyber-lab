@@ -1,0 +1,23 @@
+{
+  "score": 93,
+  "rating": "Very Strong",
+  "length": 20,
+  "charset_size": 94,
+  "entropy_bits": 131.09,
+  "composition": {
+    "lowercase": true,
+    "uppercase": true,
+    "digits": true,
+    "symbols": true,
+    "unicode": false
+  },
+  "findings": [],
+  "recommendations": [
+    "Use a unique password for every account and store it in a reputable password manager."
+  ],
+  "policy": {
+    "passed": true,
+    "violations": []
+  },
+  "breach_count": null
+}
